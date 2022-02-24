@@ -6,7 +6,5 @@ With the project, customers can create their orders and at the same time see the
 English presentation with planning the project, drawing the UML activity diagram and writing the codes using java software language
 has been made.
 
-This work, in which I also acted as the spokesperson of the project, is a team work consisting of 4 people. 
-![Adsız](https://user-images.githubusercontent.com/81514648/155517035-7bc7db35-8507-4813-8798-f7d483a55907.png)
-
+This work, in which I also acted as the spokesperson of the project, is a team work consisting of 4 people. </br>
 While you can access the codes from the "RestaurantMenuSystem" file, you can find the project report I uploaded above.
